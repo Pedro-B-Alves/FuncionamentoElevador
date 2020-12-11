@@ -1,0 +1,24 @@
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.exe
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.deps.json
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.runtimeconfig.json
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.runtimeconfig.dev.json
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.dll
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.pdb
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.AssemblyInfo.cs
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.dll
+C:\Users\dev\Desktop\pedro\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\bin\Debug\netcoreapp3.1\FuncionamentoElevador.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\FuncionamentoElevador\obj\Debug\netcoreapp3.1\FuncionamentoElevador.genruntimeconfig.cache
